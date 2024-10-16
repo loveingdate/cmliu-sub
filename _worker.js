@@ -11,7 +11,13 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/refs/heads/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://addressesapi.090227.xyz/CloudFlareYes', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/hhyyx1/cfip/refs/heads/main/ip443/HK.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/hhyyx1/cfip/refs/heads/main/ip443/SG.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/hhyyx1/cfip/refs/heads/main/ip443/JP.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/hhyyx1/cfip/refs/heads/main/ip443/IN.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/hhyyx1/cfip/refs/heads/main/ip443/US.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
